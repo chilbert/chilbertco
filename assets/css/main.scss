@@ -22,8 +22,8 @@ $background-post-list: '{{ site.baseurl }}/{{ site.background.post-list }}';
 //@import '404';
 //@import 'apps';
 @import 'home';
-//@import 'post';
-//@import 'post-list';
+@import 'post';
+@import 'post-list';
 //@import 'projects';
 //@import 'tags';
 
