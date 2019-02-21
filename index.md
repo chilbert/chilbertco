@@ -9,4 +9,4 @@ My goal is always to improve the way people create and use technology, transform
 
 I am currently a student in a Software Engineering bootcamp with [Flatiron School](https://flatironschool.com/) and loving it.  Stay tuned for some writings on my experience. Professionally speaking, I am a Co-Founder of [Spacetime](http://heyspacetime.com) (we have some awesome clients), I work with a sweet startup [StudioHop Fitness](https://studiohopfitness.com), and I play guitar for the [Jared Wood Band](http://jaredwoodmusic.com).  More importantly, I am a husband, a father and an aspiring reader. I own a [Vizsla](http://www.akc.org/dog-breeds/vizsla/), I drive a Tundra, I love my church, and have a passion for the outdoors (cycling, sport, hunting and camping). I reside in Plano, Texas and I would love to hear from you.
 
-#### Learn. ####Love. ####Code
+### Learn. Love. Code
